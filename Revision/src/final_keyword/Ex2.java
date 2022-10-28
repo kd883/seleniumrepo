@@ -12,6 +12,7 @@ public class Ex2 {
 	public static void main(String[] args) {
 		Ex2 obj = new Ex2();
 		System.out.println(obj.home);
+		System.out.println(*****************);
 	}
 
 }
